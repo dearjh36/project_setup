@@ -1,4 +1,4 @@
-package com.project.setUp.jwt;
+package com.project.setup.jwt;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
